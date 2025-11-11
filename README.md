@@ -24,26 +24,33 @@ The chatbot is powered by various technologies, including Beautiful Soup for web
 - **Conversation Memory:** Stores chat history in MongoDB for context-aware responses.
 - **Streamlit Deployment:** The chatbot is deployed using Streamlit, providing an interactive and user-friendly interface.
 
-## Documentation
+## 📚 Documentation
 
 This project includes comprehensive documentation to help you understand and work with Newsbot360:
 
-- **[SETUP.md](SETUP.md)** - Complete installation and configuration guide
+- **[DOCUMENTATION.md](DOCUMENTATION.md)** - 📖 Complete documentation guide
+  - Navigation help for all documentation
+  - Recommended reading order
+  - Quick reference and use cases
+  
+- **[SETUP.md](SETUP.md)** - ⚙️ Installation and configuration guide
   - Prerequisites and API key requirements
   - Step-by-step installation instructions
   - Configuration options and troubleshooting
   
-- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical architecture and system design
-  - Detailed component descriptions
-  - Technology stack explanation
-  - Data flow diagrams
-  - Design decisions and trade-offs
-  
-- **[WORKFLOW.md](WORKFLOW.md)** - Step-by-step process walkthrough
+- **[WORKFLOW.md](WORKFLOW.md)** - 🔄 Step-by-step process walkthrough
   - Daily news scraping process
   - Vector embedding generation
   - User query processing flow
   - Complete example scenarios
+  
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - 🏗️ Technical architecture and system design
+  - Detailed component descriptions
+  - Technology stack explanation
+  - Data flow diagrams
+  - Design decisions and trade-offs
+
+**New to Newsbot360?** Start with [DOCUMENTATION.md](DOCUMENTATION.md) for guidance on which documents to read first.
 
 ## Quick Start
 
